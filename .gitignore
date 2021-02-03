@@ -1,0 +1,16 @@
+R
+node_modules
+*.pyc
+__pycache__
+.*
+!.gitignore
+
+
+data
+Untitled
+Untitled.py
+Untitled-1.py
+Untitled-2.py
+Untitled-3.py
+CreateBoxes.R
+
